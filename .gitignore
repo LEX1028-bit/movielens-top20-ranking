@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.idea/
+
+# Output (可选：如果你不想上传输出文件就保留)
+output/
+
+# Dataset (建议不上传大csv)
+data/*.csv
